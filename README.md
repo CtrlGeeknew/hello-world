@@ -1,2 +1,2 @@
-# hello-world
-Trying to learn. Hope to receive your cooperation in this endeavor.
+# WannabeGeek/hello-world
+A greenhorn trying to learn #coding. 
